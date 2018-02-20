@@ -1,0 +1,38 @@
+ul{
+    height:20%;
+    width:100%;
+    background:black;
+    position:absolute;
+}
+
+ul h1{
+    position:relative;
+    left:10%;
+    color:powderblue;
+    
+}
+
+ul li{
+    list-style:none;
+    display:inline;
+    position:relative;
+    top:10%;
+}
+
+ul li a{
+    color:white;
+    margin:20px;
+    text-decoration:none;
+}
+
+ul li a:hover{
+    background:white;
+    color:#29B6F6;
+    text-decoration:none;
+    padding:2%;
+}
+
+marquee {
+    position:absolute;
+    top:30%;
+}
