@@ -15,9 +15,9 @@
       <!--dividin the header from rest of text-->
       <div class="one">
   <a href="../homepage.html">Return</a>
-  <a href=" ../Cloud/aboutus.html">About Us </a>
-  <a href="../Cloud/aboutcloud.html">About Cloud</a>
-  <a href ="../Ebusiness/Ebus1.php"> Products </a>
+  <a href=>About Us </a>
+  <a href=>About Cloud</a>
+  <a href ="Ebus1.php"> Products </a>
   </div>
   </br>
   </br>
