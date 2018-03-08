@@ -218,3 +218,8 @@ float:left;
     transition:all 1s;
 }
 
+body{
+    background:url("https://sciencetrends-techmakaillc.netdna-ssl.com/wp-content/uploads/2018/03/beautiful-clouds-sky.jpg");
+    background-size:cover;
+}
+
