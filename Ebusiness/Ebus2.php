@@ -11,6 +11,8 @@ session_start();
         <!--jQuery-->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script type="text/javascript" src="Ebus2.validator.js"></script>
+        
+       
     </head>
     <body>
         
@@ -33,7 +35,6 @@ session_start();
         
         
             <form action="Ebus3.php" method="POST">
-
                     <label for="user_name">Your Name</label>
                     <input type="text" id="user_name" name="user_name" placeholder="Full Name">
                     
@@ -54,7 +55,6 @@ session_start();
                     
 
                 <button type="submit" id="btnPurchase" disabled>Proceed with Purchase</button>
-              
             </form>
             
             <br/>
