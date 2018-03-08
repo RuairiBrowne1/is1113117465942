@@ -34,7 +34,7 @@ session_start();
         
         
             
-               <a href="../home/homepage.html" class="end">Home</a>
+               <a href="../homepage.html" class="end">Home</a>
         
         <a href="../homepage.html" class="end">Home</a>
     </body>
