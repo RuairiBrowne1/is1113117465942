@@ -29,21 +29,21 @@ session_start();
 </br>
   <!--Essential information-->
 <div id="cash">
-        <h4>Please enter your payment details</h4>
+        <h4>Enter your details below</h4>
         
         
             <form action="Ebus3.php" method="POST">
 
-                    <label for="user_name">Username</label>
+                    <label for="user_name">Your Name</label>
                     <input type="text" id="user_name" name="user_name" placeholder="Full Name">
                     
-                    </br>
+                    <br><br>
                     
 
                     <label for="user_email">Email</label>
                     <input type="text" id="user_email" name="user_email" placeholder="fluffyltd@gmail.com">
                     
-                    </br>
+                    <br><br>
 
 
                     <label for="user_pin">PIN</label>

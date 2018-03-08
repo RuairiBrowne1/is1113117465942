@@ -13,7 +13,7 @@ session_start();
                   <div class="one">
                         <!--dividing header from rest of page/text-->
         
-  <a href="homepage.html">Return</a>
+  <a href="homepage.html">Homepage</a>
   <a href ="../Ebusiness/Ebus1.php"> Products </a>
 </div>
 <div id="receipt">

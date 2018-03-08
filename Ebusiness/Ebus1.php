@@ -14,7 +14,7 @@
     <body>
       <!--dividin the header from rest of text-->
       <div class="one">
-  <a href="../homepage.html">Return</a>
+  <a href="../homepage.html">Homepage</a>
   <a href="Aboutus.html">About Us </a>
   <a href="aboutcloud.html">About Cloud</a>
   
@@ -25,7 +25,7 @@
   </br>
   <!--putting the prices on the radio buttons-->
  <div id="purchase">
-            <h4>Select a Product</h4>
+            <h4>Our Products:</h4>
             
             <br/>
             

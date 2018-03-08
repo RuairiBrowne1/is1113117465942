@@ -3,7 +3,7 @@
     position: fixed;
     color: black ;
     font-size: large;
-    background-color:white;
+    
 background-size: cover;
 background-repeat: no-repeat;
 height:100%;
@@ -18,24 +18,24 @@ left:40%;
 background-size: cover;
 background-repeat: no-repeat;
 height:100%;
-left:40%;
+left:50%;
 
 }
 #btnProceed{
-    background-color: green;
-    color:white;
+    background-color: powderblue;
+    color:black;
     position:absolute;
     top:90%;
-    left:45%;
+    left:50%;
 padding:1%;
 border-radius:15%;
 }
 #calculate{
-     background-color: yellow;
-     color:red;
+     background-color: Powderblue;
+     color:black;
     position:absolute;
     top:80%;
-    left:45%;
+    left:50%;
 padding:1%;
 border-radius:15%;
     
@@ -46,7 +46,7 @@ border-radius:15%;
      color:black;
      left:40%;
      top:10%;
-    background-color: white ;
+   
     background-size: cover;
 background-repeat: no-repeat;
 height:100%;
@@ -67,32 +67,33 @@ border-radius:15%;
 .one{
  
     overflow: visible;
-    background-color: red;
-    position: fixed; /* Set the navbar to fixed position */
-    top: 0; /* Position the navbar at the top of the page */
-    width: 100%; /* Full width */
+    background-color: #29F;
+    opacity:.5;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
 }
 
-/* Links inside the navbar */
+
 .one a {
     float: left;
     display: block;
-    color: white;
+    color:white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     
 }
 
-/* Change background on mouse-over */
+
 .one a:hover {
     background: #ddd;
     color: black;
 }
 
-/* Main content */
+
 .one {
-    margin-top: 30px; /* Add a top margin to avoid content overlay */
+    margin-top: 30px;
 }
 .one{
 float:left;
