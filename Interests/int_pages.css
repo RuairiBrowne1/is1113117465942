@@ -41,7 +41,8 @@ body{
 }
 
 p{
-    color: White;
+    color: #af4700;
+    font-size:20px;
 }
 
 div{
@@ -92,16 +93,15 @@ h1{
     color:black;
 }
 
-#section4{
-    
+ #section4{
+   background-image:url("https://sciencetrends-techmakaillc.netdna-ssl.com/wp-content/uploads/2018/03/beautiful-clouds-sky.jpg");
+   background-size:cover;
 }
 
 #section5{
-    
-}
-
-#section6{
-    
+    background-image:url("https://www.livekindly.co/wp-content/uploads/2017/09/eric-schmidt-google-1-1280x640.jpg");
+    background:cover;
+    background-size:125%;
 }
 
 #Question1{
