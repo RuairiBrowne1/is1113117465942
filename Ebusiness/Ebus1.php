@@ -97,11 +97,13 @@
               <button type="submit" id="btnProceed" disabled>Add to Shopping Cart</button>
             
             </form>
-            
+            <br>
+            <a role="button" href="Ebus1.php">Clear Choice</a>
             <br/>
             <button id="calculate" onClick="calcSub()">Calculate Cost</button>
-            <a role="button" href="Ebus1.php">Clear Choice</a>
-            <!--geting the information used to the receipt page-->
+            
+            
+     
              <?php
             // Set session variables
             $_SESSION["total"] = $_POST["total"];
