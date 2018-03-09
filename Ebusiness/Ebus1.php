@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
+      
         <meta charset="UTF-8">
         <title>Select Product</title>
+        <!-- CSS linked -->
         <link rel="stylesheet" href="Shop_pages.css" type="text/css" />
         
         <!--jQuery-->

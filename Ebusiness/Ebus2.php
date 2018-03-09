@@ -17,7 +17,7 @@ session_start();
     <body>
         
              <div class="one">
-        <!--dividing header from rest of page/text-->
+        
   <a href="../homepage.html">Return</a>
   <a href="Aboutus.html">About Us </a>
   <a href="aboutcloud.html">About Cloud</a>
@@ -29,7 +29,7 @@ session_start();
 </br>
 </br>
 </br>
-  <!--Essential information-->
+<!-- Code for personal details -->
 <div id="cash">
         <h4>Enter your details below</h4>
         

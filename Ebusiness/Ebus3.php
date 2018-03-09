@@ -6,12 +6,12 @@ session_start();
     <head>
           <meta charset="UTF-8">
         <title>RECEIPT</title>
-          <!--linking to stylesheet-->
+          <!--linking to css -->
          <link rel="stylesheet" href="Shop_pages.css" type="text/css" />
     </head>
     <body>
                   <div class="one">
-                        <!--dividing header from rest of page/text-->
+                      
         
   <a href="homepage.html">Homepage</a>
   <a href ="../Ebusiness/Ebus1.php"> Products </a>
